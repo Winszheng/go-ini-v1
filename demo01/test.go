@@ -28,7 +28,9 @@ func main() {
 		fmt.Println("failed to read file")
 		os.Exit(1)
 	}
+	fmt.Println()
 	fmt.Println(filename, " has been changed, here are newest version: ")
+	fmt.Println()
 	//典型的读取操作
 	fmt.Println("App Mode: ", f.Section("").Key("app_mode"))
 	fmt.Println("Data Path: ", f.Section("paths").Key("data"))

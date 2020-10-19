@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="800d990f-2035-44e4-b6bb-95ef1e52dc97" name="Default Changelist" comment="" />
+    <list default="true" id="800d990f-2035-44e4-b6bb-95ef1e52dc97" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo01/test.go" beforeDir="false" afterPath="$PROJECT_DIR$/demo01/test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ini.go" beforeDir="false" afterPath="$PROJECT_DIR$/ini.go" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +21,11 @@
     </option>
   </component>
   <component name="GOROOT" path="/opt/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1j3WfGMfM67JnsSFM26ugJ3mJlT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -24,6 +34,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultGoTemplateProperty" value="Go File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="configurable.Global.GOPATH.is.expanded" value="true" />
     <property name="configurable.Module.GOPATH.is.expanded" value="false" />
@@ -85,22 +96,22 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="1106" y="154" width="658" height="794" key="#go_build_main.go/0.27.1920.1053@0.27.1920.1053" timestamp="1603094076142" />
-    <state width="1866" height="253" key="GridCell.Tab.0.bottom" timestamp="1603112582293">
+    <state width="906" height="517" key="GridCell.Tab.0.bottom" timestamp="1603115595317">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1866" height="253" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1603112582293" />
-    <state width="1866" height="253" key="GridCell.Tab.0.center" timestamp="1603112582291">
+    <state width="906" height="517" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1603115595317" />
+    <state width="906" height="517" key="GridCell.Tab.0.center" timestamp="1603115595316">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1866" height="253" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1603112582291" />
-    <state width="1866" height="253" key="GridCell.Tab.0.left" timestamp="1603112582290">
+    <state width="906" height="517" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1603115595316" />
+    <state width="906" height="517" key="GridCell.Tab.0.left" timestamp="1603115595316">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1866" height="253" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1603112582290" />
-    <state width="1866" height="253" key="GridCell.Tab.0.right" timestamp="1603112582292">
+    <state width="906" height="517" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1603115595316" />
+    <state width="906" height="517" key="GridCell.Tab.0.right" timestamp="1603115595316">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1866" height="253" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1603112582292" />
+    <state width="906" height="517" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1603115595316" />
     <state x="316" y="186" key="SettingsEditor" timestamp="1603096038415">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>

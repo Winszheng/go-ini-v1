@@ -9,9 +9,11 @@ import (
 	"strings"
 )
 
-// init: Linux: '#' while Windows: ';'
+
 var annotationSymbol = '#'
 
+// init: Linux: '#' while Windows: ';'
+// init: Linux系统: '#', Windows系统: ';'
 func Init() {
 	if runtime.GOOS == "windows" {
 		annotationSymbol = ';'
