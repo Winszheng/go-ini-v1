@@ -8,16 +8,22 @@ import (
 )
 
 // interface for listener
+//
+// listener接口
 type Listener interface {
 	Listen(string) error
 }
 
 // struct for listener
+//
+// listener结构体
 type List struct {
 
 }
 
 // handle listening
+//
+// 处理监听
 func (l *List)Listen(filename string) error {
 	fileInfo, err := os.Stat(filename)
 	if err!= nil {
@@ -42,6 +48,8 @@ func (l *List)Listen(filename string) error {
 }
 
 // Watch: call Listen
+//
+// 调用监听函数
 func Watch(filename string, listen List)(*File, error){
 	err := listen.Listen(filename)
 	if err != nil {
