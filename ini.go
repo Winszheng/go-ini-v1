@@ -13,6 +13,7 @@ import (
 var annotationSymbol = '#'
 
 // init: Linux: '#' while Windows: ';'
+//
 // init: Linux系统: '#', Windows系统: ';'
 func Init() {
 	if runtime.GOOS == "windows" {
@@ -22,6 +23,8 @@ func Init() {
 
 // Load loads and parses from INI data sources.
 // It will return error if list contains nonexistent files.
+//
+// 加载配置文件并绑定到结构体变量
 func Load(filename string) (*File, error) {
 	Init()
 
